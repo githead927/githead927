@@ -1,15 +1,15 @@
-<h1 align="center">Hi , I'm Sakshi Phadkale 👽</h1>
+<h1 align="center">Hi , I'm Sakshi Phadkale </h1>
 <h3 align="center">Building solutions, one line at a time. Code. Create. Innovate!</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githead927&label=Profile%20views&color=0e75b6&style=flat" alt="githead927" /> </p>
 
-- 🌱 I’m currently learning **MERN , Java ,etc.**
+-  I’m currently learning **MERN , Java ,etc.**
 
-- 💬 Ask me about **WebDev , C/C++ ,etc.**
+-  Ask me about **WebDev , C/C++ ,etc.**
 
-- 📫 How to reach me **githubb2024@gmail.com**
+- How to reach me **githubb2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
