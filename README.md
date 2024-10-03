@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Sakshi Phadkale 👽</h1>
 <h3 align="center">Building solutions, one line at a time. Code. Create. Innovate!</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://i.pinimg.com/736x/55/01/e1/5501e1384369332bdce4bbcf4addd6c6.jpg”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githead927&label=Profile%20views&color=0e75b6&style=flat" alt="githead927" /> </p>
 
