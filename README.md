@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Sakshi Phadkale </h1>
 <h3 align="center">Building solutions, one line at a time. Code. Create. Innovate!</h3>
-
-
+<img align="right" alt="code" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.edology.com%2Fblog%2Fcomputing-it%2Fwhy-coding-is-so-important-for-it-jobs%2F&psig=AOvVaw33cy46SYwSTLKClNPC891N&ust=1728062263139000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCCheDb8ogDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githead927&label=Profile%20views&color=0e75b6&style=flat" alt="githead927" /> </p>
 
