@@ -27,5 +27,4 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githead927&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.6&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-[![Sakshi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=githead927)](https://github.com/githead927/github-readme-stats)
-
+[![Sakshi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/githead927/github-readme-stats)
